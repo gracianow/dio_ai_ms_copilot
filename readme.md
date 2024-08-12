@@ -1,4 +1,4 @@
-# AI Copilot is an awsome initiative! ;)
+# AI Copilot is an awsome initiative!
 
 This course is ideal for boosting your skills and making your projects stand out to recruiters worldwide! Also was designed to enhance our productivity as a developers by integrating AI solutions into your daily tasks. 
 
