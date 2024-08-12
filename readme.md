@@ -4,7 +4,7 @@ This course is ideal for boosting your skills and making your projects stand out
 
 - **Machine Learning, NLP, and Computer Vision**: Learn important concepts and practical applications to build a strong foundation in AI.
 
-- **GitHub Copilot**: Use GitHub Copilot for tasks like pair programming, code review, and refactoring, making your coding process more efficient[^1^][1].
+- **GitHub Copilot**: Use GitHub Copilot for tasks like pair programming, code review, and refactoring, making your coding process more efficient.
 
 - **Microsoft Copilot Studio**: Customize Microsoft Copilot for Microsoft 365 to meet your specific needs, enhancing your workflow.
 - **Generative AI with Copilot on Bing**: Create and optimize content more efficiently using generative AI tools.
